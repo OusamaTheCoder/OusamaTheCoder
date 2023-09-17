@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ousama</h1>
 <h3 align="center">A passionate software engineering student from Morocco</h3>
 
-<p align="left" class="test"> <img src="https://komarev.com/ghpvc/?username=ousamathecoder&label=Profile%20views&color=0e75b6&style=flat" alt="ousamathecoder" /> </p>
+<p align="center" class="test"> <img src="https://komarev.com/ghpvc/?username=ousamathecoder&label=Profile%20views&color=0e75b6&style=flat" alt="ousamathecoder" /> </p>
 
-<p align="left" class="test"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ousamathecoder" alt="ousamathecoder" /></a> </p>
-<style>
-  .test{
-    text-align: center;
-  }
-</style>
+<p align="center" class="test"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ousamathecoder" alt="ousamathecoder" /></a> </p>
 
 - 🔭 I’m currently studing on [ALX Africa software engineering program](www.alxafrica.com)
 
