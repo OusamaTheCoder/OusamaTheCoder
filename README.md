@@ -3,9 +3,9 @@
 <h3 align="center">A passionate software engineering from Morocco</h3>
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ousamathecoder&label=Profile%20views&color=0e75b6&style=flat" alt="ousamathecoder" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ousamathecoder&label=Profile%20views&color=0e75b6&style=flat" alt="ousamathecoder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ousamacodecraft" target="blank"><img src="https://img.shields.io/twitter/follow/ousamacodecraft?logo=twitter&style=for-the-badge" alt="ousamacodecraft" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ousamacodecraft" target="blank"><img src="https://img.shields.io/twitter/follow/ousamacodecraft?logo=twitter&style=for-the-badge" alt="ousamacodecraft" /></a> </p>
 
 - 🔭 I’m currently learning on **ALX africa**
 
