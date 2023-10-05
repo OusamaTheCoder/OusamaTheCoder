@@ -18,7 +18,7 @@
 - ⚡ Fun fact **Debugging is like being the 🔍 detective in a crime drama 🔍 where you are also the 👻 murderer 😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/ousamacodecraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ousamacodecraft" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ousamathecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ousamathecoder" height="30" width="40" /></a>
 </p>
