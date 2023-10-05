@@ -1,7 +1,7 @@
-[![MasterHead](https://i.imgur.com/xcCS9ja.gif)]
+![MasterHead](https://i.imgur.com/xcCS9ja.gif)
 <h1 align="center">Hi 👋, I'm Ousama Oujaber</h1>
 <h3 align="center">A passionate software engineering from Morocco</h3>
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding" width="400">
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ousamathecoder&label=Profile%20views&color=0e75b6&style=flat" alt="ousamathecoder" /> </p>
 
