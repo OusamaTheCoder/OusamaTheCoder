@@ -6,6 +6,9 @@
   <h3 align="center">A passionate software engineering from Morocco</h3>
       
   <p><strong>Freelancing & Assisting my self at this life.</strong></p>
+  <p><strong>The Types Of Songs I Like</strong></p>
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wna7ygojxr6wr2hq2rtwdbrxpe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
   <h3 align="center">Find me here:</h3>
   <p align="center">
